@@ -11,4 +11,4 @@ Possible commands after the setup:
 *Call eg -> call [mobileNumber] -> call 1234567890
 *Sms eg -> sendSms [mobileNumber] [message] -> sendSms 1234567890 someMessage
 *Custom command -> custom [command] -> custom AT+VGR
-*Closing the program -> exit
+*Closing the program -> exit 
