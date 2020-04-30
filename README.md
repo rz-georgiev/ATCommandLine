@@ -1,5 +1,5 @@
 # ATCommandLine
-Sending commands to a SIM modem Siemens M20 / M20 Terminal\
+Sending commands to a SIM modem Siemens M20 / M20 Terminal
 
 How to use:\
 First all possible COM ports and their settings show on the screen.\
@@ -14,5 +14,5 @@ Possible commands after the setup:\
 *Custom command -> custom [command] -> custom AT+VGR\
 *Closing the program -> exit 
 
-Link to Siemens documentation:\
-https://canarysystems.com/nsupport/m20_v5.pdf\
+Link to Siemens M20 / M20 Terminal documentation: \
+https://canarysystems.com/nsupport/m20_v5.pdf
