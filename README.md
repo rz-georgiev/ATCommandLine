@@ -1,4 +1,4 @@
-# ATCommandLine\
+# ATCommandLine
 Sending commands to a SIM modem Siemens M20 / M20 Terminal\
 
 How to use:\
